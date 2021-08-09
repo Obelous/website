@@ -10,7 +10,7 @@ module.exports = {
         contentBase: path.resolve(__dirname, 'dist')
     },
 
-    devtool: 'inline-source-map',
+    //devtool: 'inline-source-map',
 
     entry: {
         index: './index.js',
