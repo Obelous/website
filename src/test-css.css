@@ -1821,7 +1821,7 @@ html {
  padding:0
 }
 #container {
- background:url(assets/container-background.svg) grey;
+ background:url(assets/images/container-background.svg) grey;
  background-size:cover;
  box-shadow:0 0 .15em .15em rgba(0,0,0,.125);
  padding-top:1em;
