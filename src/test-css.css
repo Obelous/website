@@ -255,7 +255,7 @@
  font-style:normal;
  font-weight:900;
  font-display:block;
- src:url(assets/FontAwesome5Free-Solid.woff) format("woff2");
+ src:url(assets/FontAwesome5Free-Solid.woff) format("woff");
 }
 .fa,
 .far,
@@ -272,8 +272,8 @@
  font-style:normal;
  font-weight:400;
  font-display:block;
- src:url(assets/FontAwesome5Brands-Regular.woff2?#iefix) format("embedded-opentype"),
- url(assets/FontAwesome5Brands-Regular.woff) format("woff2")
+ src:url(assets/FontAwesome5Brands-Regular.woff2) format("woff2"),
+ url(assets/FontAwesome5Brands-Regular.woff) format("woff")
 }
 .fab {
  font-family:Font Awesome\ 5 Brands;
@@ -289,7 +289,7 @@
  font-style:normal;
  font-weight:900;
  font-display:block;
- src:url(assets/FontAwesome5Free-Solid.woff) format("woff2");
+ src:url(assets/FontAwesome5Free-Solid.woff) format("woff");
 }
 .fa,
 .fas {
