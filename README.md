@@ -1,4 +1,5 @@
 # ~/obelous
+Repository for the website [Obelous.com](https://Obelous.com)
 
 ## build
 
